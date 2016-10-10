@@ -1,7 +1,7 @@
 var request = require('request');
 var settings = require('./settings');
 
-console.log("Using settings", settings);
+// console.log("Using settings", settings);
 
 var twilio = require('twilio')(settings.TWILIO_ACCOUNT_SID, settings.TWILIO_TOKEN);
 
