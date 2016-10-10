@@ -72,10 +72,6 @@ Browse to your project if you're not already there. If needed, change the
 
 Select `function_package.zip` from the project directory
 
-## Usage
-
-This is designed to be run by 
-
 ## License
 
 MIT
