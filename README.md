@@ -15,6 +15,8 @@ Run `nvm use 4.3` to make sure you're on the right version.
 
 ## External services  
 
+You'll need an Amazon Web Services account.
+
 You will need a funded [Twilio account](https://www.twilio.com). You'll need to 
 buy a a phone number and enable SMS. You will also need your Twilio account SID 
 and authentication token, available on the Twilio console. 
