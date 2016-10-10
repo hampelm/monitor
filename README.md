@@ -13,6 +13,12 @@ version used by Lambda.
 
 Run `nvm use 4.3` to make sure you're on the right version.
 
+## Expectations
+
+General knowledge of javascript and node.js development. Familiarity with 
+general Amazon Web Services operations. Ability to create and fund a Twilio 
+account. 
+
 ## External services  
 
 You'll need an Amazon Web Services account.
