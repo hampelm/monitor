@@ -1,8 +1,15 @@
 # Monitor
 
-Monitor services and send alerts by text message. Designed to run on AWS Lambda.
-Adapted from [@bdon's lambda_monitoring](https://github.com/bdon/lambda_monitoring) 
-script.
+This tiny app monitors web services and sends your designated contacts a text 
+message when they don't return an OK status code. It's designed to run on AWS 
+Lambda as a scheduled job. 
+Adapted from [@bdon's lambda_monitoring](https://github.com/bdon/lambda_monitoring) script.
+
+## Expectations
+
+General knowledge of javascript and node.js development. Familiarity with Amazon 
+Web Services operations. Ability to create and fund a Twilio account. Total 
+cost to run should be less than a dollar a month. 
 
 ## Requirements 
 
@@ -12,12 +19,6 @@ Run `nvm install 4.3` if you don't have node 4.3 installed. That's the current
 version used by Lambda. 
 
 Run `nvm use 4.3` to make sure you're on the right version.
-
-## Expectations
-
-General knowledge of javascript and node.js development. Familiarity with 
-general Amazon Web Services operations. Ability to create and fund a Twilio 
-account. 
 
 ## External services  
 
