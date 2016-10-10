@@ -1,6 +1,8 @@
 # Monitor
 
 Monitor services and send alerts by text message. Designed to run on AWS Lambda.
+Adapted from [@bdon's lambda_monitoring](https://github.com/bdon/lambda_monitoring) 
+script.
 
 ## Requirements 
 
