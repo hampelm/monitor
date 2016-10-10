@@ -6,7 +6,10 @@ Monitor services and send alerts by text message. Designed to run on AWS Lambda.
 
 `node` and [`nvm`](https://github.com/creationix/nvm).
 
-Run `nvm install 4.3` if needed. That's the current version used by Lambda. 
+Run `nvm install 4.3` if you don't have node 4.3 installed. That's the current 
+version used by Lambda. 
+
+Run `nvm use 4.3` to make sure you're on the right version.
 
 ## External services  
 
