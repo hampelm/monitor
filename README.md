@@ -1,4 +1,4 @@
-# # Monitor
+# Monitor
 
 Monitor services and send alerts by text message. Designed to run on AWS Lambda.
 
