@@ -1,0 +1,18 @@
+{
+  "name": "monitor",
+  "version": "1.0.0",
+  "description": "Monitor services and send SNS alerts with Lambda",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Matt Hampel",
+  "license": "MIT",
+  "dependencies": {
+    "request": "^2.75.0",
+    "twilio": "^2.11.0"
+  },
+  "engines": { 
+    "node" : ">=4.3.0 <5.0" } 
+  }
+}
